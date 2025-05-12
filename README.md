@@ -43,7 +43,21 @@ To collect user email addresses and engagement data ahead of a mobile app launch
 | Data Analyst         | Ben       | Tracks metrics, builds dashboards                               |
 | CRM Specialist       | Taylor    | Handles email automation and CRM integration                    |
 
----
+### Step 3: RACI Chart Table
+
+| Task/Subtask                     | Alex (PM) | Maria (Dev) | Jordan (Mktg) | Priya (Design) | Ben (Data) | Taylor (CRM) |
+|----------------------------------|-----------|-------------|----------------|----------------|------------|---------------|
+| Define user acquisition strategy | A         |             | R              | C              | C          | I             |
+| Design landing page wireframe    | C         |             | C              | R              |            | A             |
+| Develop landing page + form      | I         | R           | C              | C              |            | A             |
+| Integrate email capture system   | I         | C           | C              |                |            | R, A          |
+| Set up lead tracking dashboard   | I         |             | C              |                | R, A       |               |
+| Create ad creatives & copy       | C         |             | A              | R              |            | I             |
+| Launch and monitor ad campaign   | I         |             | R              | C              | C          | A             |
+| Write & automate welcome emails  | C         |             | C              | C              |            | R, A          |
+| Track lead performance & optimize| I         |             | R              |                | R          | C             |
+| Prepare launch announcement      | A         |             | R              | R              | C          | C             |
+| Handoff user list to app team    | A         |             | I              |                | R          | R             |
 
 ## Part 2: RACI Chart Analysis
 
